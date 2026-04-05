@@ -9,6 +9,13 @@ int main(void){
 
     printf("length = %d\n", length);
 
+    for (int i = 0; i < length; i++)
+    {
+        printf("s1[%d] is: %c\n", i, s1[i]);
+       
+    }
+    
+
     return 0;
 
 }
