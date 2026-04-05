@@ -14,6 +14,8 @@ int main(void){
     }else{
         printf("Your height is not qualified!\n");
     }
+
+    return 0;
     
     
 }
