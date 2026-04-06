@@ -13,4 +13,7 @@ int find_max(int a, int b){
 int main(void){
     int mx = find_max(5, 10);
     printf("max is: %d\n", mx);
+
+    return 0;
+    
 }
